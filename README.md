@@ -7,7 +7,7 @@
 
 This repository contains different tutorials submitted by community members. Tutorials will be referenced in the [zkSync Era documentation website](https://era.zksync.io/docs/).
 
-We encourage authors to keep their tutorials updated. 
+We encourage authors to keep their tutorials up-to-date. 
 
 ### zkSync Tutorials 
 
@@ -19,7 +19,7 @@ For tutorials created and maintained by the zkSync team, [check out this reposit
 - Tutorials must take a neutral stance and refrain from promoting projects.
 - Tutorials must be an original and NOT a work that was previously published.
 - You must be the rightful intellectual property owner (author) of your submission.
-- Tutorials can contain relevant external sources, only when referenced accordingly.
+- Tutorials can contain relevant external sources, but only when referenced accordingly.
 - Tutorials must have working code to support the tutorial.
 - Tutorials must be provided following the [guidelines in this repository](#tutorial-guidelines).
 
